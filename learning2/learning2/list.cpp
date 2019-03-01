@@ -4,7 +4,7 @@ List::List()
 {
 	//空头链表初始化
 	InitListHead();
-}
+ }
 
 List::~List()
 {
